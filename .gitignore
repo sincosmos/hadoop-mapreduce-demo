@@ -1,0 +1,17 @@
+# maven #
+target/
+*.class
+.mvn/
+
+### eclipse ###
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+##
+*.log
